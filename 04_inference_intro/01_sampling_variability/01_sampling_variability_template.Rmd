@@ -19,6 +19,7 @@ output: pdf_document
 	
 \end{small}
 
+
 A natural way to estimate features of a population, such as a population mean, is to use the corresponding summary statistic calculated from a sample drawn from the population; a sample mean is a point estimate of a population mean. If a different sample is drawn, the new sample mean would likely be different as a result of sampling variability. This lab explores the relationship between point estimates and population parameters through simulation.
 
 The material in this lab corresponds to Section 4.1 of *OpenIntro Biostatistics*.
